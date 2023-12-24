@@ -1,7 +1,7 @@
 file = open('Test1.txt','r')
-content = file.read()  
-# line = file.readline()  
+# content = file.read()  
+line = file.readline()  
 # lines = file.readlines()
-print(content)
+print(line)
 file.close()
 
