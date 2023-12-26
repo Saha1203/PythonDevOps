@@ -1,6 +1,6 @@
 import os
 import os.path
-
+#folder deletion commands 
 # os.mkdir('Test_folder2')
 list = os.listdir('.')
 print(*list,sep='\n')
