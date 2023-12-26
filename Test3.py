@@ -1,0 +1,6 @@
+file = open('Test1.txt','r')
+content = file.read()
+# file = pen('Test1.txt','w')
+# file.write("This is 4th line")
+print(content)
+file.close()
