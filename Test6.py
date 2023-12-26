@@ -1,6 +1,7 @@
 import os
 import os.path
 
+#file deletion 
 
 list = os.listdir('.')
 print(*list,sep='\n')
