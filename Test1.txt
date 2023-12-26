@@ -1,2 +1,2 @@
 This is 4th line
- This is a new line trying to append
+This is a new line trying to append
